@@ -1,0 +1,10 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SingletonPatron\SingConsole\bin\Debug\SingConsole.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SingletonPatron\SingConsole\bin\Debug\SingConsole.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SingletonPatron\SingConsole\bin\Debug\SingConsole.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SingletonPatron\SingConsole\bin\Debug\SingLibrary.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SingletonPatron\SingConsole\bin\Debug\SingLibrary.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SingletonPatron\SingConsole\obj\Debug\SingConsole.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SingletonPatron\SingConsole\obj\Debug\SingConsole.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SingletonPatron\SingConsole\obj\Debug\SingCons.95BE5DC2.Up2Date
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SingletonPatron\SingConsole\obj\Debug\SingConsole.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SingletonPatron\SingConsole\obj\Debug\SingConsole.pdb
